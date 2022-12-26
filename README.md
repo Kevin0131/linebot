@@ -1,5 +1,7 @@
 基本上我的小助理都是從user state開始的
 從下圖我們可以看到各個功能都是從user去出發，經由advanced跑到各個功能對應的state之後再藉由go back跳回user state。
+![螢幕擷取畫面_20221226_060517](https://user-images.githubusercontent.com/74133233/209536161-a5e421fc-1d0f-4787-993b-c4a22887bd5d.png)
+
 
 
 接下來我們就來看各個功能的實作
